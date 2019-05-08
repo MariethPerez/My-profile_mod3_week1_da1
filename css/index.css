@@ -1,0 +1,42 @@
+.prof-box {
+  width: 800px;
+  height: 1140px;
+  background: rgba(255, 0, 255, 0.3);
+  padding: 40px;
+}
+img {
+  display: block;
+  width: 25%;
+  height: auto;
+  margin-bottom: 0.5em;
+  background-color: #f0eeee;
+}
+html {
+  background-image: url("../images/fondo.jpg");
+}
+
+header {
+  font-family: "Lobster", cursive;
+  font-size: 50px;
+  text-shadow: 4px 4px 4px #aaa;
+  color: #43125a;
+}
+
+h3,
+h2,
+h4 {
+  color: #43125a;
+}
+
+.links_me {
+  position: relative;
+  left: 200px;
+  width: 400px;
+  height: 200px;
+  right: 0;
+  top: 1px;
+}
+.footer {
+  position: relative;
+  margin-bottom: 0;
+}
