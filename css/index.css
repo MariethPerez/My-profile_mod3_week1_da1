@@ -1,9 +1,4 @@
-.prof-box {
-  width: 800px;
-  height: 1140px;
-  background: rgba(255, 0, 255, 0.3);
-  padding: 40px;
-}
+
 img {
   display: block;
   width: 25%;
@@ -15,11 +10,15 @@ html {
   background-image: url("../images/fondo.jpg");
 }
 
-header {
+.title-main {
   font-family: "Lobster", cursive;
   font-size: 50px;
   text-shadow: 4px 4px 4px #aaa;
   color: #43125a;
+}
+
+h1 {
+  font-size: 40px
 }
 
 h3,
@@ -28,7 +27,7 @@ h4 {
   color: #43125a;
 }
 
-.links_me {
+.links-me {
   position: relative;
   left: 200px;
   width: 400px;
@@ -40,3 +39,4 @@ h4 {
   position: relative;
   margin-bottom: 0;
 }
+
